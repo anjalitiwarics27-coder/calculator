@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(205, 58, 58);
+    /*background color of the page*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*font family of the page*/
+
+}
+input[type="button"]{
+    background-color: black;
+    /*background color of buttons*/
+    color: white;
+    /*text color of buttons*/
+    font-size: 20px;
+    /*font size of buttons*/
+    padding: 4px 4px;
+    /*padding of buttons*/
+    border-radius: 12px; 
+    /*to give rounded corners*/
+    border: 2px solid white; 
+    /*border of buttons*/  
+    width: 60px;
+    /*width of buttons*/
+    height: 60px; 
+    /*height of buttons*/  
+    margin: 5px; 
+    /*margin of buttons*/   
+    cursor: pointer;
+    /*to change cursor to pointer on hover*/
+}
+
+input[type="button"]:hover
+{
+    background-color: rgb(71, 14, 214);
+   /*its used to change the color while pressing*/
+}
+input[type="text"]{
+    position:relative;
+    /*to position the display*/
+    font-size: 30px;
+    /*font size of display*/
+    width:80%;
+    /*width of display*/
+    height: 50px;
+    /*height of display*/
+    border-radius: 20px;
+    /*to give rounded corners*/
+    margin:0px auto;
+    /*to center the display*/
+    display: block;
+    /*to center the display*/
+    padding: 10px;
+    /*to give space inside the display*/
+    text-align: center;
+        /*to align the text to center*/
+       
+}
+#calculator{
+   position: relative;
+   /*to position the calculator*/
+   background-color: rgb(15, 220, 162);
+   /*background color of calculator*/
+   width: 500px;
+   /*width of calculator*/
+   border:2px solid black;
+/*border of calculator*/
+   margin:0px auto;
+   /*to center the calculator on the page*/
+    padding:20px 20px 20px 20px;
+    /*to give space inside the calculator*/
+    border-radius: 15px;
+    /*to give rounded corners*/
+}
