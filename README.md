@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Open%20Source-blue?style=for-the-badge)
 
-🔗 **[View Live Demo](https://anjalitiwarics27-coder.github.io/calculator/)** &nbsp;|&nbsp; ⭐ **[Star this Repo](https://github.com/anjalitiwarics27-coder/calculator)**
+🔗 **[View Live Demo] https://anjalitiwarics27-coder.github.io/calculator/calculator.html** &nbsp;|&nbsp; ⭐ **[Star this Repo](https://github.com/anjalitiwarics27-coder/calculator)**
 
 </div>
 
